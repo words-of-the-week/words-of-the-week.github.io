@@ -1,0 +1,351 @@
+#word-of-the-day-eng :: meetup 01
+===
+
+# ![](/Users/noomorph/Downloads/mjfekmfwmzmd.bmp)
+
+##### 29 November 2016
+
+###### Yaroslav Serhieiev, Bohdan Litvinov
+
+---
+
+# to back someone up
+
+### Translations
+
+* поддержать
+* прикрыть кого-то
+
+### Examples
+
+> She's here **to back me up**.
+> Она здесь, чтобы поддержать меня.
+
+---
+
+# to back up smth (with)
+
+### Translations
+
+* подкрепить что-то чем-то
+
+### Examples
+
+> Wait... do you have any medical statistics **to back up** this theory?
+
+---
+
+# back where I come from
+
+### Translations
+
+* там, откуда я родом
+
+### Examples
+
+> five bucks for 2 seconds of digging is quite a lot of money **back where I come from**
+
+---
+
+# compound
+
+составной, смесь, усугублять
+
+> **to compound** existing problems
+> **усугублять** существующие проблемы
+
+> Breathe in this **compound** several times a day.
+> Вдыхайте эту **смесь** несколько раз в день 
+
+> Fixed an error while processing of **compound** multi-line structure in figure brackets {...}.
+> Исправлена ошибка обработки **составной** многострочной конструкции в фигурных скобках
+
+---
+
+# a repercussion
+
+последствие, отголосок
+> We believe that the paper addresses the symptoms and the **repercussions** of the problem but not its causes.
+> Мы считаем, что в документе рассматриваются симптомы и **последствия** проблемы, а не ее причины.
+
+> your decision not to go to college will have **repercussions** you'll feel for years to come
+> твое решение не идти в колледж будет иметь **последствия**, которые ты ощутишь на себе еще долгие годы
+
+---
+
+# a narrative
+изложение, повествование, рассказ, художественный (фильм)
+
+> It's a narrative crafted to have the greatest impact on a jury.
+> Это рассказ, созданный, чтобы повлиять на присяжных
+
+> Narrative film can't begin to touch the horror of experience.
+> Художественный фильм не может передать реальный ужас.
+
+---
+
+# a bugbear
+
+страшилка, "бабай"; то, чем можно пугать
+
+> In any event it ignores the fact that the only effective reactions are _measured_ ones; the danger with **"laying it on thick"** is often that of becoming a _mere_ **bugbear** that fails to influence its target audience.
+
+> Так или иначе он игнорирует то обстоятельство, что эффективными являются лишь _осторожные_ действия, а метод **"вколачивания"** часто оборачивается _бесполезными_ **"страшилками"** без реальных последствий для соответствующих стран.
+
+---
+
+# get away with something/get by with something
+
+избежать наказания; провернуть что-то, что сойдет с рук
+
+> You got away with it last time.
+> Прошлый раз тебе это сошло с рук.
+
+---
+
+# inadvertent
+
+непреднамеренный, непроизвольный, неумышленный
+
+> Nevertheless, **inadvertent** errors in information may occur.
+> Тем не менее, в информации могут содержаться ошибки **неумышленного характера**.
+
+---
+
+# me gusta
+
+**me gusta** (звучит как «ме густа» ) по-испански «мне нравится» — одна из комиксовых физиономий, выражающая удовлетворение человека, увидевшего или сделавшего нечто отвратительное.
+
+[цитата взята отсюда](https://otvet.mail.ru/question/65448039)
+
+---
+
+# mindful of/that
+
+> She was also **mindful that** the holiday began on 9 December.
+> Она также помнила о том, что 9 декабря начинается праздник.
+
+
+> I reiterate that we are **mindful of** our obligations.
+> Я вновь повторяю, что мы помним о наших обязательствах.
+    
+---
+
+# careless (of)
+
+> It was **careless of you** to lose my car key.
+> Это было **беспечно с твоей стороны** потерять ключ от моей машины.
+
+---
+
+# heedless (of)
+
+позабыв, не обращая внимания на, оставаясь глухим к
+
+> **Heedless of** the danger, he returned to the burning building to save his dog.
+> **Позабыв об** опасности, он вернулся в горящий дом, чтобы спасти своего пса.
+
+#### to heed
+
+> Be careful and **heed** your instinct.
+> Будь осторожен, и **прислушивайся** к своим инстинктам.
+
+---
+
+# superficial
+
+поверхностный
+
+> **superficial** injuries
+> **поверхностные** раны
+
+> Such treatment should not be **superficial** or limited by time.
+> Такой подход не должен быть **поверхностным** или ограниченным по времени.
+
+
+---
+
+# to captivate
+
+пленить, очаровывать
+
+> to captivate someone's eyes and ears
+> пленить чей-то взгляд и слух
+
+> a captivating story
+> увлекательная история (сюжет)
+
+---
+
+# to come down to
+
+сводиться к, упираться в
+
+> It all **comes down to** honesty.
+> В конце концов, все **сводится к** искренности.
+
+> You see, it all **comes down to** this fellow.
+> Понимаете, все **упирается в** этого парня.
+
+---
+
+# to contradict
+
+противоречить
+
+> You're **contradicting** yourself.
+> Ты сам себе **противоречишь**.
+
+---
+
+# to disrupt  
+
+нарушить, сорвать, подорвать
+
+to disrupt:
+
+* stability
+* traffic
+* process
+* balance
+
+---
+
+# a hunch
+
+догадка, предчувствие, подозрение, интуиция
+
+> I can't just go on **a hunch**.
+> Я не могу просто полагаться на **предчувствие**.
+
+> I have **a hunch**...
+> У меня есть **догадка**...
+---
+
+# нутром чувствовать
+
+> I know in my gut that...
+> I can feel it in my bones...
+
+---
+
+# to mitigate
+
+смягчить, уменьшить, ослабить
+
+> **to mitigate** risks of...
+> **смягчить риски**, связанные с...
+
+> **mitigating** circumstances
+> **смягчающие** обстоятельства
+
+---
+
+# to push smb over the edge
+
+> This might just be enough **to push it over the edge**.
+> Этого возможно будет достаточно **чтобы переборщить**.
+
+> So if she finds out about this, it could **push her over the edge**.
+> И если она про это узнает, это **может довести её до ручки**.
+
+> I reckon that would be enough **to push him over the edge**.
+> Я полагаю, этого было достаточно, чтобы **подтолкнуть его к отчаянным действиям**.
+
+
+---
+
+# to put up with smb/smth
+
+терпеть что-то, мириться с, выносить что-то
+
+> Like I told you, I just can't **put up with** her attitude anymore.
+> Как я вам уже говорила, мы больше не можем **терпеть** ее поведение.
+
+---
+
+# to shade in
+
+заштриховать (треугольник, фигуру)
+
+> I’d like you to shade in all the triangles.
+
+---
+
+# to shatter
+
+разбить(ся) вдребезги
+
+> Then I saw that car window shatter.
+> Затем я увидел, как разбилось окно той машины.
+
+> You're still trying to **mend** the **shattered pieces**.
+> Ты все еще пытаешься **склеить** **осколки**.
+
+---
+
+# to be/sit on the fence about
+
+быть на перепутьи, сомневаться
+
+> I was **on the fence about** whether I wanted to do it.
+> Я **сомневался**, хочу ли я этим заниматься.
+
+> You know, I was **on the fence about** this purchase.
+> Знаете, я и сам тут был **на перепутье** с этой покупкой.
+
+---
+
+# to steer away from
+
+держаться подальше от, избегать
+
+> **Steer away from** Earth, try not to bump into the moon otherwise the races who live there will be livid.
+> **Держитесь подальше от** Земли и постарайтесь не врезаться в Луну; в противном случае, расы, живущие там, будут в ярости.
+
+
+---
+
+# to take off
+
+снять, взлететь, стартовать
+
+> You forgot **to take off** your watch.
+> Ты забыл **снять** часы.
+
+> Planes cannot **take off** or land.
+> Самолеты не могут **взлететь** или приземлиться.
+
+> Project **took off** in January, 2009.
+> Проект **стартовал** в январе 2009 года.
+
+---
+
+# curtly
+
+коротко, отрывисто
+
+> to nod curtly
+> коротко кивнуть
+
+> to reject curtly
+> наотрез отказаться
+
+---
+
+# somber
+
+мрачный
+
+> somber spectacle
+> мрачное зрелище
+> 
+> somber music
+> мрачная музыка
+
+### Synonyms
+dark, gloomy, grim, bleak, dismal, sombre
+    
+---
+
+# Thank you!
