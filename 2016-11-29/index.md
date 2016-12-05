@@ -1,8 +1,6 @@
 #word-of-the-day-eng :: meetup 01
 ===
 
-# ![](/Users/noomorph/Downloads/mjfekmfwmzmd.bmp)
-
 ##### 29 November 2016
 
 ###### Yaroslav Serhieiev, Bohdan Litvinov
