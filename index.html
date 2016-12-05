@@ -22,10 +22,10 @@
   <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">  
   <style type="text/css">
-    body { font-size: 18pt; font-family: sans-serif; }
+    body { font-size: 18pt; font-family: sans-serif; display: flex; }
     aside, article { padding: 0 1em; }
-    aside { float: left; }
-    article { float: left; border-left: 1px solid; }
+    aside { flex-shrink: 0; }
+    article { border-left: 1px solid; flex-grow: 1; }
     body:after { content: ''; clear: both; }
     aside > ul { list-style: none; padding: 0; }
   </style>
