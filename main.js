@@ -16,13 +16,17 @@
         return Promise.reject(new Error(message));
     }
 
+    function xx(x) {
+        return (x >= 0 && x < 10) ? '0' + x : '' + x;
+    }
+
     function getArticle(yyyymmdd) {
         if (!yyyymmdd) {
             return reject('no ?date= passed');
         }
 
-        const [yyyy, mm, dd] = yyyymmdd.split('-').map(Number);
-        const date = new Date(yyyy, mm, dd);
+        const [yyyy, mm, dd] = yyyymmdd.split('-').map(Number).map(xx);
+        const date = new Date(+yyyy, +mm, +dd);
 
         if (isNaN(date.getTime())) {
             return reject('invalid date passed, expected ?date=yyyy-mm-dd');

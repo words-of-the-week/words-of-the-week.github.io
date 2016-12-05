@@ -23,11 +23,19 @@
   <meta name="theme-color" content="#ffffff">  
   <style type="text/css">
     body { font-size: 18pt; font-family: sans-serif; }
+    aside, article { padding: 0 1em; }
+    aside { float: left; }
+    article { float: left; border-left: 1px solid; }
+    body:after { content: ''; clear: both; }
+    aside > ul { list-style: none; padding: 0; }
   </style>
 </head>
 <body>
     <aside>
-        <a href="?date=2016-11-29">Meetup 01</a>
+        <ul>
+            <li><a href="?date=2016-12-06">Meetup 02</a></li>
+            <li><a href="?date=2016-11-29">Meetup 01</a></li>
+        </ul>
     </aside>
 
     <article id="article">
