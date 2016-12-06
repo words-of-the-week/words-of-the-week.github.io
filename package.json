@@ -1,0 +1,27 @@
+{
+  "name": "words-of-the-week.github.io",
+  "version": "1.0.0",
+  "description": "Presentations for every week of our English learning",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo No\\ TDD,\\ me\\ gusta!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/words-of-the-week/words-of-the-week.github.io.git"
+  },
+  "keywords": [
+    "english",
+    "markdown"
+  ],
+  "author": "Yaroslav Serhieiev <noomorph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/words-of-the-week/words-of-the-week.github.io/issues"
+  },
+  "homepage": "https://github.com/words-of-the-week/words-of-the-week.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}

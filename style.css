@@ -1,0 +1,26 @@
+body {
+    font-size: 18pt;
+    font-family: sans-serif;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+aside,
+article {
+    padding: 0 1em;
+}
+
+aside {
+    flex-shrink: 0;
+}
+
+aside > ul {
+    list-style: none;
+    padding: 0;
+}
+
+article {
+    border-left: 1px solid;
+    flex-grow: 1;
+}

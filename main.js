@@ -1,4 +1,4 @@
-(function main() {
+function main() {
     function getQueryParams(search) {
         const pairs = (search || '').slice(1).split('&');
 
@@ -20,6 +20,10 @@
         return (x >= 0 && x < 10) ? '0' + x : '' + x;
     }
 
+    function nocache() {
+        return 'nocache=' + Math.random().toString(16).slice(2);
+    }
+
     function getArticle(yyyymmdd) {
         if (!yyyymmdd) {
             return reject('no ?date= passed');
@@ -32,7 +36,7 @@
             return reject('invalid date passed, expected ?date=yyyy-mm-dd');
         }
 
-        return fetch(`content/${yyyy}-${mm}-${dd}.md`).then(res => res.text())
+        return fetch(`content/${yyyy}-${mm}-${dd}.md?${nocache()}`).then(res => res.text())
     }
 
     function render(articleHTML) {
@@ -48,4 +52,7 @@
             .then(html => render(html))
             .catch(err => render(err.toString()));
     }
-}());
+}
+
+
+console.log(chrome.app);
