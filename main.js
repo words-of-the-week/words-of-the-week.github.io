@@ -53,6 +53,3 @@ function main() {
             .catch(err => render(err.toString()));
     }
 }
-
-
-console.log(chrome.app);
